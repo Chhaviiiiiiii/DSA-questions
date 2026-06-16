@@ -58,7 +58,7 @@ for(int i=0;i<n;i++){
 }
 cout<<endl;
 
-    linerSearch(arr,n,target);
+  linerSearch(arr,n,target);
   binarySearch(arr,n,target);
 
 }

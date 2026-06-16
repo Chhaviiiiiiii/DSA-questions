@@ -16,7 +16,7 @@ cout<<"The Maximum of array is: "<<maximum<<endl;
 
 int main(){
 
- int arr[] = {43,100,57,78,90};
+ int arr[] = {43,,57,78,90};
 
  int n = sizeof(arr)/sizeof(int);
 
